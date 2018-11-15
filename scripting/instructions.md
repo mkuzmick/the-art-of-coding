@@ -9,7 +9,7 @@ To access the shell on your Mac, you open up the Terminal app, which you can fin
 
 If you like the way your terminal looks (fonts, colors, etc)--cool. If not, hit `command + ,` and you will be able to change anything you like. On our machines, we usually go for dark backgrounds at 80% opacity, for instance.
 
-Go ahead an type in the command `ls`, which will *list* your files.
+Go ahead an type in the command `ls`, which will **list** your files.
 
 
 ### YOU SHOULD NOW BE ABLE TO
