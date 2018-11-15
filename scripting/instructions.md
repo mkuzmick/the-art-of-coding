@@ -12,17 +12,26 @@ To access the shell on your Mac, you open up the Terminal app, which you can fin
 If you like the way your terminal looks (fonts, colors, etc)--cool. If not, hit `command + ,` and you will be able to change anything you like. On our machines, we usually go for dark backgrounds at 80% opacity, for instance. If it will make you happy to do something crazier, then do it.
 
 You should see a prompt, in the form of a line or box that may be flashing (depending on your preferences). This is where you type commands. Go ahead an type in the command `date` and hit return. You should see the date and time. Then try the following series of commands out to get a sense of some of the basic commands you'll find yourself using:
-- type `uptime` to find out how long your machine has been running since you last powered down or restarted
-- type `echo something` and the terminal should say `something` back to you (in text)
-- type `history` to get a complete list of all the commands you've typed so far
-- type `say "I am glad you are learning to code"` and your computer should say something kind to you (turn your volume up to hear it)
+- type `uptime` and hit enter to find out how long your machine has been running since you last powered down or restarted
+- enter `echo something` and the terminal should say `something` back to you (in text)
+- enter `history` to get a complete list of all the commands you've typed so far
+- try `say "I am glad you are learning to code"` and your computer should say something kind to you (turn your volume up to hear it)
 - If you make a mistake while typing, you may find yourself trying to use the mouse to click to an earlier point in a line to insert a correction as you would in Microsoft Word.  And you'll find that this doesn't work. You need to either use the forward and back arrow keys, or to hold doing **option** while clicking the mouse to get to where you want to go.
 - One very valuable thing to know is that the up-arrow key will go backwards in you command history. Hitting it once will reload the previous command, twice will reload the one before that, and so on. This makes re-entering or slightly tweaking a mis-typed command **much** easier than retyping.
 
 ### NAVIGATING THE FILE SYSTEM
 
 Much--**SO much**--of what you'll do in terminal involves navigating the file system (the sort of stuff you do in Finder on your Mac).
-- To get started, type `pwd` to find the "path" of
+- To get started, type `pwd` (print working directory) to find the "path" of your current directory. This will show you the hierarchical list of folders and subfolders that shows (starting at the very root of your drive) where your directory is. The first character of each path will be `/`, which represents the root directory--it's like the place where the trunk of the tree meets the roots, right at the ground.  Everything else sprouts from there.  You'll probably see something like `/Users/llf`--with the `llf` being whatever your username is. This is the same username that shows up with a little circular photo when you log in to your mac.  
+- To get a sense of the tree trunk and the branches, type in `cd /` and hit enter.  This will take you to the root of the tree trunk. Next, enter the two commands that you may as well enter EVERY TIME you follow one of the steps in this section:
+  - Enter `ls` to see what's there.
+  - Enter `pwd` to see where you are.  
+This will help you get a better "pseudo-spatial" sense of where you're located, because without the cues offered by your Mac's GUI (Graphical User Interface), it can sometimes be difficult to know where you are.
+- Now that you're in the root folder, let's find our way back to your own individual User folder, which is where all of YOUR stuff is going to be.  Enter `cd Users` to get into `/Users`, then once in `/Users`,   `cd llf` should get you into `/Users/llf`.
+- Once in `/Users/llf`, your `ls` command should show you a bunch of folders you're pretty familiar with: they're the same folders you see frequently in the sidebar of your Mac's Finder. Most of the folders there were put there by Apple. But there's one folder that we in the Learning Lab put there for your use as a member of the codeLab team: "Development". Go ahead and type `cd Development` to get there. A quick `pwd` now should show you `/Users/llf/Development`, which is where you want to go at the beginning of nearly every work session here in the LL.
+![ls output in User folder]()
+![User folder seen in Finder]()
+- One thing you may be wondering is whether the User folder is secure. Like, now that you know how to get to the `/Users` directory, what's to stop you from `cd`ing into a folder you're not supposed to be able to access? Well try it! You probably noticed that the `ll_master` directory was one of the options
 
 
 
