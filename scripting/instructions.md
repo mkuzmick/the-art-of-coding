@@ -3,7 +3,21 @@
 
 Ok--so here we're going to learn to talk to the computer.  We do this by typing commands into the "(Shell)[https://en.wikipedia.org/wiki/Unix_shell]", which will then interpret these commands (it's a [command-line interpreter](https://en.wikipedia.org/wiki/Command-line_interface)) and then send instructions to the "[Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))" (which you can think of as the very core of the computer--where all the stuff happens).  
 
-To get to your shell on a mac
+To access the shell on your Mac, you open up the Terminal app, which you can find in your `~/Applications/Utilities` folder. You can also hit `command + space` to open up the spotlight search window and start typing in "Terminal" until you see it appear for you to click.
+
+If you like the way your terminal looks (fonts, colors, etc)--cool. If not, hit `command + ,` 
+
+
+### STEPS IN BRIEF
+1. Open up Terminal.
+2. Type some commands.
+  - cd ~
+  - ls
+  - cd Development
+  - ls
+  - mkdir newDirectory
+  - cd newDirectory
+  - nano
 
 
 ## YOUTUBE-DL
