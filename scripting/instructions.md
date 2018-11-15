@@ -1,9 +1,9 @@
 
 ## COMMAND-LINE BASICS
 
-Ok--so here we're going to learn to talk to the computer.  We do this by typing commands into the "Shell", which will then interpret these commands (it's a [command-line interpreter](https://en.wikipedia.org/wiki/Command-line_interface)) and then send instructions to the "Kernel" (which you can think of as the very core of the computer--where all the stuff happens).  
+Ok--so here we're going to learn to talk to the computer.  We do this by typing commands into the "(Shell)[https://en.wikipedia.org/wiki/Unix_shell]", which will then interpret these commands (it's a [command-line interpreter](https://en.wikipedia.org/wiki/Command-line_interface)) and then send instructions to the "[Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))" (which you can think of as the very core of the computer--where all the stuff happens).  
 
-
+To get to your shell on a mac
 
 
 ## YOUTUBE-DL
