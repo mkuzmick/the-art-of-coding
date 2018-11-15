@@ -21,11 +21,11 @@ You should see a prompt, in the form of a line or box that may be flashing (depe
 - If you make a mistake while typing, you may find yourself trying to use the mouse to click to an earlier point in a line to insert a correction as you would in Microsoft Word.  And you'll find that this doesn't work. You need to either use the forward and back arrow keys, or to hold doing **option** while clicking the mouse to get to where you want to go.
 - One very valuable thing to know is that the up-arrow key will go backwards in you command history. Hitting it once will reload the previous command, twice will reload the one before that, and so on. This makes re-entering or slightly tweaking a mis-typed command **much** easier than retyping.
 
-![Peanut Shells and kernels](https://www.seriouseats.com/images/2011/10/20111011-peanut-shell.jpg)
-
 ### CHALLENGE FOR ARTISTS
 
  Take a moment to read a couple of the links about the Unix shell and kernel at the top of this section, or [any](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html) of [these](http://www.unix.org/what_is_unix.html) other [links](https://en.wikipedia.org/wiki/Unix) and you may as well take a look at some images of [actual shells and kernels](https://www.shellingmachine.com/application/peanut-shelling.html) too! Once you've done this, reflect a bit on your current understanding (or "schema" or "mental model") of the shell/kernel relationship in the Unix-based operating system and draw your own visualization of this relationship. Don't spend forever on it, but do something you're happy sharing, then Slack it out to #medium-code!
+
+![Peanut Shells and kernels](https://www.seriouseats.com/images/2011/10/20111011-peanut-shell.jpg)
 
 ### TAKEAWAYS
 
