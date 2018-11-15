@@ -29,8 +29,8 @@ Much--**SO much**--of what you'll do in terminal involves navigating the file sy
 This will help you get a better "pseudo-spatial" sense of where you're located, because without the cues offered by your Mac's GUI (Graphical User Interface), it can sometimes be difficult to know where you are.
 - Now that you're in the root folder, let's find our way back to your own individual User folder, which is where all of YOUR stuff is going to be.  Enter `cd Users` to get into `/Users`, then once in `/Users`,   `cd llf` should get you into `/Users/llf`.
 - Once in `/Users/llf`, your `ls` command should show you a bunch of folders you're pretty familiar with: they're the same folders you see frequently in the sidebar of your Mac's Finder. Most of the folders there were put there by Apple. But there's one folder that we in the Learning Lab put there for your use as a member of the codeLab team: "Development". Go ahead and type `cd Development` to get there. A quick `pwd` now should show you `/Users/llf/Development`, which is where you want to go at the beginning of nearly every work session here in the LL.
-![ls output in User folder]()
-![User folder seen in Finder]()
+![ls output in User folder](https://raw.githubusercontent.com/mkuzmick/the-art-of-coding/master/scripting/images/userFolder_ls.png)
+![User folder seen in Finder](https://raw.githubusercontent.com/mkuzmick/the-art-of-coding/master/scripting/images/gui_userFolder.png)
 - One thing you may be wondering is whether the User folder is secure. Like, now that you know how to get to the `/Users` directory, what's to stop you from `cd`ing into a folder you're not supposed to be able to access? Well try it! You probably noticed that the `ll_master` directory was one of the options
 
 
