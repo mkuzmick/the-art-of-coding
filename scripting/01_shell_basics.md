@@ -23,7 +23,7 @@ You should see a prompt, in the form of a line or box that may be flashing (depe
 
 ### CHALLENGE FOR ARTISTS
 
- Take a moment to read a couple of the links about the Unix shell and kernel at the top of this section, or [any](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html) of [these](http://www.unix.org/what_is_unix.html) other [links](https://en.wikipedia.org/wiki/Unix) and you may as well take a look at some images of [actual shells and kernels](https://www.shellingmachine.com/application/peanut-shelling.html) too! Once you've done this, reflect a bit on your current understanding (or "schema" or "mental model") of the shell/kernel relationship in the Unix-based operating system and draw your own visualization of this relationship. Don't spend forever on it, but do something you're happy sharing, then Slack it out to #medium-code!
+ Take a moment to read a couple of the links about the Unix shell and kernel at the top of this section, or [any](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html) of [these](http://www.unix.org/what_is_unix.html) other [links](https://en.wikipedia.org/wiki/Unix) to see if what they say about the shell and kernel makes sense to you. And you may as well take a look at some images of [actual shells and kernels](https://www.shellingmachine.com/application/peanut-shelling.html) too! Once you've done this, reflect a bit on your current understanding (or "schema" or "mental model") of the shell/kernel relationship in the Unix-based operating system and draw your own visualization of this relationship. Don't spend forever on it, but do something you're happy sharing, then Slack it out to #medium-code!
 
 ![Peanut Shells and kernels](https://www.seriouseats.com/images/2011/10/20111011-peanut-shell.jpg)
 
