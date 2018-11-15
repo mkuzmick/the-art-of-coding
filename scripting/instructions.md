@@ -1,5 +1,5 @@
 
-## COMMAND-LINE BASICS
+## COMMAND-LINE BASICS--LIKE **REAL** BASICS
 
 Ok--so here we're going to learn to talk to the computer so that we can get it to do things for us.  
 
@@ -9,7 +9,9 @@ To access the shell on your Mac, you open up the Terminal app, which you can fin
 
 If you like the way your terminal looks (fonts, colors, etc)--cool. If not, hit `command + ,` and you will be able to change anything you like. On our machines, we usually go for dark backgrounds at 80% opacity, for instance.
 
-Go ahead an type in the command `ls`, which will **list** your files.
+You should see a prompt, in the form of a line or box that may be flashing (depending on your preferences). This is where you type commands. Go ahead an type in the command `date` and hit return. You should see the date and time.
+
+
 
 
 ### YOU SHOULD NOW BE ABLE TO
