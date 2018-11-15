@@ -22,7 +22,7 @@ You should see a prompt, in the form of a line or box that may be flashing (depe
 ### NAVIGATING THE FILE SYSTEM
 
 Much--**SO much**--of what you'll do in terminal involves navigating the file system (the sort of stuff you do in Finder on your Mac).
-- To get started, type `pwd` to find the "path" of 
+- To get started, type `pwd` to find the "path" of
 
 
 
@@ -60,3 +60,9 @@ should we do .sh or .js?
 
 pros of shell =
 - extra layer of running through node not there.
+
+
+
+- abort commands with Control-C
+
+- [bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) = "Bourne Again Shell"
